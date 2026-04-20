@@ -11,6 +11,14 @@
 
 Modern web teknolojileri kullanılarak geliştirilmiş olup, göz alıcı bir kullanıcı deneyimi ("glassmorphism" tarzı UI, premium renk paleti) ve yüksek performans sunar.
 
+### 📸 Ekran Görüntüleri
+
+<div align="center">
+  <img src="qr_menu_mobile_ui_1776701184297.png" alt="Mobile QR Menu Interface" width="45%" />
+  &nbsp; &nbsp; &nbsp;
+  <img src="qr_menu_admin_dashboard_1776701198931.png" alt="Admin Dashboard Database Management" width="45%" />
+</div>
+
 ## ✨ Özellikler
 
 ### 📱 Müşteri Arayüzü (QR Menü)
